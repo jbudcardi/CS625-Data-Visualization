@@ -1,0 +1,513 @@
+GENRE	VOTES
+Action, Family	0
+Action, Mystery, Sci-Fi	0
+News, Reality-TV	0
+Mystery, Romance, Thriller	0
+Romance, Thriller	0
+Drama, Romance, Western	0
+Drama, Sci-Fi, War	0
+History, Music, Talk-Show	0
+Documentary, History, Music	0
+Documentary, Family, History	0
+Drama, History, Horror	0
+Animation, Comedy, Thriller	0
+Adventure, Family, Horror	0
+Crime, Drama, Sport	0
+Biography, Drama, Musical	0
+Biography, Family, News	0
+Thriller, Mystery	0
+Talk-Show, Sport	0
+Crime, Comedy	0
+Comedy, Mystery, Thriller	0
+Comedy, Mystery, Sci-Fi	0
+Short, Sci-Fi	0
+Short, Reality-TV	0
+Short, Biography, Drama	0
+Short, History	0
+Short, Action	0
+Music, Musical	7
+Documentary, Action, Crime	9
+Short, Comedy, Talk-Show	12
+Romance, Sport	26
+Documentary, History, Mystery	31
+Drama, Fantasy, History	33
+Action, History	38
+Comedy, Animation	45
+Comedy, Fantasy, Reality-TV	52
+Animation, Short, Mystery	54
+Animation, Family, Sci-Fi	74
+Documentary, Adventure, News	76
+Crime, Horror	81
+Family, Musical	89
+Family, Reality-TV	94
+Documentary, Music, Sport	106
+Action, Mystery	115
+Game-Show, Music, Reality-TV	117
+Comedy, Drama, History	125
+Animation, Comedy, Sci-Fi	139
+Comedy, History, Romance	141
+Family, Talk-Show	147
+Animation, Short, Family	149
+Documentary, Short, Comedy	154
+Documentary, Short, Crime	155
+Mystery	156
+Short, Documentary	157
+Musical	157
+Adventure, Family	160
+Short, Mystery, Sci-Fi	178
+Adventure, Drama, Sport	189
+Adventure, Music, Sci-Fi	199
+Drama, Short	200
+Action, Adventure, Sport	212
+Documentary, Adventure, Biography	220
+Documentary, Romance	228
+Documentary, Crime, News	230
+Documentary, Western	238
+"Drama            """	241
+Horror, Romance	248
+Documentary, Comedy, Music	250
+Family, Music	318
+Documentary, Drama, Fantasy	321
+Adventure, Mystery	336
+Fantasy, Thriller	356
+War	364
+Action, Crime, Sport	398
+Animation, Drama, Sport	407
+Documentary, Biography, War	408
+Game-Show, Music	447
+Animation, Fantasy, Sci-Fi	450
+Animation, Family, Musical	488
+Animation, Fantasy, Romance	495
+Game-Show, Reality-TV, Sport	505
+Drama, Thriller, Western	532
+Comedy, Musical, Romance	536
+Drama, Fantasy, Sport	544
+Documentary, Crime, Thriller	551
+Comedy, Crime, Family	568
+Documentary, Biography, Romance	579
+Comedy, Family, Horror	593
+Documentary, Adventure, Game-Show	654
+Fantasy, Music	661
+Short, Family	669
+Short, Horror, Mystery	694
+Documentary, Short, Family	694
+Family, Sci-Fi, Thriller	698
+Action, Biography, History	729
+Short, Action, Adventure	735
+Documentary, Animation, Comedy	745
+Animation, Sport	773
+Action, Fantasy, History	792
+Game-Show, Horror, Reality-TV	813
+Drama, History, Music	827
+Documentary, Drama, Family	841
+Family, Music, Romance	865
+Adventure, Family, Sci-Fi	902
+Animation, Comedy, Musical	948
+Biography, History	953
+Documentary, Horror, Mystery	955
+Documentary, Reality-TV, Talk-Show	979
+Drama, Romance, Sport	982
+Biography, Drama, Mystery	990
+Drama, Musical, Romance	996
+Fantasy	1012
+Animation, Horror	1020
+Biography, Music	1030
+Short	1044
+Documentary, Mystery, Reality-TV	1080
+Comedy, Romance, Sport	1142
+Drama, Family, Mystery	1153
+Animation, Fantasy	1228
+Action, Romance	1322
+Family, Fantasy, Mystery	1349
+Comedy, Music, Romance	1385
+Documentary, Action, Biography	1405
+Animation, Adventure, Horror	1411
+Comedy, Fantasy, Mystery	1414
+Documentary, Mystery	1430
+Drama, Horror, Romance	1464
+Short, Crime, Drama	1545
+Animation, Action, History	1550
+Adventure, Fantasy, Horror	1558
+Short, Horror	1574
+Documentary, Animation	1584
+Biography	1586
+Music, Romance	1624
+Drama, Film-Noir, Mystery	1631
+Family, Adventure, Comedy	1701
+Action, Mystery, Romance	1810
+Documentary, Talk-Show	1813
+Drama, Family, History	1859
+Animation, Short	1863
+News	1879
+Documentary, Reality-TV, Sport	1948
+Documentary, Game-Show	1961
+Comedy, Romance, Western	1983
+Documentary, History, Sport	2067
+Adventure	2067
+Documentary, Family	2074
+Documentary, Short, Drama	2091
+Drama, Musical	2121
+Comedy, Drama, Mystery	2183
+Documentary, Comedy, Drama	2215
+Comedy, Horror, Talk-Show	2220
+Crime, Fantasy, Thriller	2228
+Documentary, Action, History	2236
+Action, Horror	2254
+Action, Crime, Romance	2319
+Documentary, Short, Sci-Fi	2429
+Family, Sport	2436
+Documentary, Comedy, Musical	2479
+Fantasy, Horror, Romance	2489
+Comedy, Documentary	2558
+Documentary, History, News	2691
+Family, Game-Show	2827
+Music	2880
+Short, Drama, Romance	2923
+Comedy, Horror, Mystery	2990
+Documentary, Adventure, Drama	2996
+Documentary, Animation, Sci-Fi	3006
+Documentary, Action, Adventure	3234
+Documentary, Reality-TV, Romance	3333
+Crime, Film-Noir, Mystery	3337
+Music, Reality-TV	3341
+Horror, Reality-TV	3413
+Short, Adventure, Comedy	3458
+Adventure, Reality-TV	3478
+Biography, History, War	3480
+Horror, Mystery, Romance	3542
+Drama, Family, Musical	3565
+Documentary, Horror	3663
+Comedy, Romance, Sci-Fi	3743
+Fantasy, Romance	3881
+Sport	3936
+Short, Drama	4031
+Adventure, Comedy	4147
+Animation, Adventure	4149
+Crime, Mystery, Romance	4151
+Crime, Drama, Family	4163
+Adventure, Comedy, Mystery	4302
+Drama, Reality-TV	4305
+Action, Comedy, Sci-Fi	4351
+Animation, Action, Romance	4447
+Documentary, Short, Sport	4501
+Drama, Family, Sport	4501
+Short, Comedy	4527
+Comedy, Horror, Sci-Fi	4613
+Drama, Family, Music	4754
+Documentary, Adventure, History	4828
+Animation, Action, Family	4870
+Comedy, Horror, Reality-TV	4871
+Adventure, Romance	5016
+Short, Comedy, Music	5359
+Animation, Action	5404
+Documentary, Animation, History	5421
+Comedy, Horror, Romance	5447
+Crime, Film-Noir, Thriller	5451
+Drama, Family, Sci-Fi	5479
+Documentary, Short, Biography	5590
+Family, Romance	5594
+Action, Comedy, History	5596
+Film-Noir, Thriller	5679
+Comedy, Family, Musical	5909
+"Romance            """	5947
+Documentary, Short, History	6070
+Family, Fantasy	6122
+Western	6240
+Animation, Comedy, Sport	6396
+Animation	6565
+Comedy, Drama, Horror	6571
+Comedy, News, Talk-Show	6817
+Documentary, Comedy, History	6887
+Biography, Crime	7032
+Documentary, News	7242
+Documentary, Short, War	7344
+Crime, Drama, Western	7430
+Biography, Thriller	7515
+Action, Comedy, Family	7535
+Action, Thriller, War	7607
+Comedy, Crime, Western	7695
+Comedy, Mystery, Romance	7696
+Documentary, Biography, Family	7869
+Comedy, Crime, Romance	7888
+Family	7916
+Action, Fantasy	8178
+Animation, Action, Sci-Fi	8211
+Documentary, Biography, Comedy	8256
+Documentary, Drama, Sport	8293
+Talk-Show	8534
+Sci-Fi	8584
+Horror, Music, Thriller	8597
+Action, Comedy, Thriller	8885
+Animation, Action, Horror	8964
+Action, Fantasy, Horror	9046
+History, Sport, Thriller	9330
+Fantasy, Horror, Sci-Fi	9721
+Fantasy, Mystery, Romance	9876
+Action, Drama, Romance	9965
+Game-Show, Reality-TV, Romance	10008
+Drama, History, Western	10096
+Short, Music	10114
+Reality-TV, Romance	10333
+Action, War	10546
+Documentary, Biography, News	10737
+Romance, Sci-Fi	10879
+Crime, History, Thriller	10977
+Game-Show	11063
+Short, Comedy, Crime	11306
+Animation, Family	11692
+Fantasy, Horror	11951
+Animation, Adventure, Sci-Fi	12226
+Crime, Drama, Sci-Fi	12242
+Documentary, Drama, Mystery	12328
+Animation, Short, Action	12352
+Short, Drama, Sci-Fi	12375
+Family, Fantasy, Horror	12427
+Animation, Drama, Mystery	12828
+Drama, History, Sport	12846
+Action, Romance, Sci-Fi	12922
+Biography, Drama, Thriller	13179
+Comedy, Family, Fantasy	13908
+Documentary, War	14024
+Animation, Comedy, Fantasy	14161
+Adventure, Drama, Romance	14529
+Drama, Family, Romance	14559
+Biography, Comedy	14676
+Documentary, Reality-TV	14812
+Comedy, Talk-Show	15229
+Comedy, Music, Musical	16598
+Adventure, Comedy, Romance	16937
+Drama, Mystery	17442
+Biography, Drama, Music	17708
+Animation, Drama, Horror	17838
+Action, Drama, Western	18670
+Drama, Fantasy, Thriller	18971
+Crime	19832
+Comedy, Musical	20485
+Biography, Drama, War	21093
+Comedy, Crime, Mystery	21219
+Action, Fantasy, Mystery	22347
+Drama, Family, Fantasy	22431
+Animation, Drama, Music	23327
+Action, Sci-Fi	24013
+Romance	24099
+Action, Fantasy, Western	25758
+Crime, Horror, Mystery	26359
+Animation, Short, Drama	26833
+Documentary, Short	27566
+Drama, Family, Reality-TV	27754
+Documentary, Biography, Drama	28081
+Drama, Sport	28562
+Action, Horror, Mystery	28745
+Comedy, Thriller	28997
+Adventure, Drama, Thriller	29152
+Documentary, Adventure	29530
+Documentary, History, War	29836
+"Horror            """	30530
+Documentary, Crime, Sport	30658
+Comedy, Drama, Thriller	31658
+Adventure, Drama, Sci-Fi	32372
+Mystery, Sci-Fi, Thriller	32569
+Documentary, Crime, Drama	32964
+Sci-Fi, Thriller	33301
+Documentary, Biography, Sport	33424
+Action, Adventure, War	34726
+Action, Drama, Sport	34826
+Drama, Romance, Thriller	34966
+Comedy, Drama, Western	35091
+Action, Horror, Thriller	35123
+Action, Western	36044
+Action, Drama, Horror	36351
+Documentary, Drama, History	37443
+Action	37485
+Action, Fantasy, Sci-Fi	37600
+Comedy, Family, Music	38015
+Crime, Sci-Fi, Thriller	40017
+Documentary, Crime, Music	40743
+Action, Crime	42105
+Drama, Romance, War	42128
+Game-Show, Reality-TV	42138
+Comedy, Reality-TV	42186
+Action, Adventure	42922
+Crime, Mystery, Sci-Fi	44980
+Comedy, Fantasy, Horror	45125
+Comedy, Mystery	46205
+Adventure, Drama, War	46703
+Animation, Comedy, Family	47413
+Comedy, Family, Sci-Fi	48780
+Animation, Action, Crime	49172
+Comedy, Drama, War	50409
+Documentary, Biography, Music	51979
+Drama, History	54963
+Horror, Mystery, Sci-Fi	55456
+Animation, Short, Adventure	56069
+Adventure, Fantasy, Sci-Fi	56121
+Animation, Drama, Romance	56153
+Action, Adventure, Family	56698
+Short, Action, Comedy	57319
+Comedy, Horror, Thriller	60242
+Drama, Music	60622
+Action, Drama, War	64616
+Comedy, Sport	66862
+Drama, Romance, Sci-Fi	67479
+Comedy, Drama, Sport	67850
+Comedy, Fantasy, Musical	67897
+Documentary, Music	68530
+Documentary, Crime, History	72928
+Comedy, Fantasy	73080
+Adventure, Horror, Thriller	74688
+Documentary, Biography	75684
+Crime, Thriller	76921
+Drama, History, War	76966
+Animation, Biography, Drama	77732
+Documentary, Crime, Mystery	78072
+Animation, Comedy, Romance	79714
+Drama, Thriller, War	80419
+Drama, Family	80586
+Drama, Fantasy	81093
+Thriller	89052
+Action, Romance, Thriller	91625
+Documentary, Drama	91866
+Drama, Music, Musical	92489
+Adventure, Drama, History	94885
+Action, Biography, Crime	95276
+Comedy, Drama, Sci-Fi	96523
+Drama, Horror, Music	96582
+Crime, Drama, History	99556
+Comedy, Family	99693
+Action, Crime, Sci-Fi	99799
+Action, Comedy, Horror	100354
+Documentary, History	102651
+Action, Adventure, Horror	103032
+Adventure, Drama, Family	103784
+Adventure, Drama, Fantasy	104826
+Drama, Western	108875
+Adventure, Comedy, Reality-TV	111345
+Fantasy, Horror, Mystery	111444
+Crime, Drama, Film-Noir	113199
+Comedy, Family, Romance	113828
+Documentary, Sport	115570
+Crime, Drama, Music	116488
+Drama, History, Romance	120295
+Action, Drama, Mystery	121080
+Animation, Short, Comedy	123448
+Documentary, Biography, Crime	126330
+Drama, War	128171
+Reality-TV	128385
+Action, Crime, Fantasy	132116
+Action, Crime, Horror	132378
+Animation, Action, Fantasy	135497
+Comedy, Crime, Thriller	136173
+Action, Adventure, Mystery	140033
+Horror, Mystery	142650
+Documentary, Biography, History	144339
+Action, Comedy, Fantasy	147924
+Adventure, Comedy, Family	151365
+Documentary, Comedy	152377
+Action, Comedy	154283
+Comedy, Drama, Musical	156712
+Drama, Fantasy, Romance	159248
+Animation, Drama, Family	165913
+Action, Fantasy, Thriller	175334
+Adventure, Drama, Mystery	187336
+Crime, Drama, Romance	192683
+Horror, Sci-Fi, Thriller	196568
+Comedy, Drama, Family	196702
+Biography, Drama, Romance	198473
+Animation, Adventure, Fantasy	199496
+Mystery, Thriller	201680
+Drama, Fantasy, Sci-Fi	206175
+Adventure, Fantasy, Romance	212616
+Comedy, Music	213304
+Drama, Horror, Sci-Fi	218410
+Comedy, Sci-Fi	242121
+Crime, Horror, Thriller	245008
+Drama, Horror	250489
+Musical, Romance	250587
+Horror, Mystery, Thriller	259867
+Action, Mystery, Thriller	260335
+Action, Comedy, Drama	260656
+Animation, Action, Comedy	262762
+Biography, Drama, Family	263445
+Comedy, Horror	266286
+Action, Comedy, Romance	270651
+Animation, Crime, Drama	271090
+Biography, Comedy, Drama	277522
+Action, Drama, Fantasy	284552
+Adventure, Drama	292459
+Adventure, Drama, Horror	298220
+Adventure, Family, Fantasy	301990
+Animation, Comedy, Drama	306503
+Adventure, Comedy, Crime	306614
+Action, Horror, Sci-Fi	309612
+Animation, Action, Drama	312212
+Animation, Drama, Fantasy	314605
+Horror, Sci-Fi	314748
+Animation, Family, Fantasy	327854
+Drama, Fantasy, Mystery	350292
+Comedy, Crime	357746
+Comedy, Drama, Music	358642
+Action, Crime, Mystery	365681
+Crime, Drama, Horror	383242
+Drama, Music, Romance	389809
+Action, Drama, History	390072
+Action, Comedy, War	391033
+Drama, History, Thriller	394638
+Documentary, Crime	405800
+Comedy, Drama, Fantasy	410337
+Crime, Drama, Fantasy	419853
+Action, Drama, Sci-Fi	434114
+Biography, Drama, Sport	443006
+Drama, Mystery, Romance	444909
+Action, Biography, Drama	460897
+Adventure, Biography, Drama	467716
+Comedy, Fantasy, Romance	479762
+Family, Fantasy, Musical	486908
+Action, Drama, Thriller	495088
+Action, Adventure, Biography	496505
+Horror, Thriller	503688
+Adventure, Comedy, Drama	517617
+Adventure, Comedy, Fantasy	524176
+Adventure, Thriller	558731
+Animation, Adventure, Drama	585239
+Biography, Drama, History	586801
+Crime, Mystery, Thriller	634755
+Biography, Drama	656898
+Action, Sci-Fi, Thriller	657323
+Animation, Comedy	669258
+Drama, Sci-Fi	686363
+Horror	723821
+Drama, Sci-Fi, Thriller	769496
+Adventure, Fantasy	774632
+Adventure, Sci-Fi	793679
+Documentary	875917
+Drama, Thriller	895992
+Action, Adventure, Thriller	941716
+Drama, Horror, Mystery	967045
+Action, Drama	1089147
+Drama, Mystery, Sci-Fi	1146167
+Animation, Adventure, Family	1147897
+Action, Thriller	1262947
+Drama, Horror, Thriller	1431956
+Action, Adventure, Crime	1479310
+Comedy, Crime, Drama	1522461
+Action, Comedy, Crime	1573073
+Biography, Crime, Drama	1731030
+Drama, Mystery, Thriller	1754347
+Drama, Romance	1783394
+Action, Adventure, Fantasy	1817581
+Action, Adventure, Comedy	1849739
+Action, Crime, Thriller	1878250
+Comedy, Drama, Romance	2055595
+Drama, Fantasy, Horror	2300144
+Crime, Drama	2443104
+Animation, Action, Adventure	2460228
+Drama	2915961
+Comedy, Drama	3596523
+Comedy, Romance	3660134
+Animation, Adventure, Comedy	3875022
+Comedy	4268228
+Crime, Drama, Thriller	4897359
+Action, Adventure, Sci-Fi	5064229
+Crime, Drama, Mystery	5361808
+Action, Crime, Drama	6716227
+Action, Adventure, Drama	8260326
